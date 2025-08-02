@@ -1,0 +1,38 @@
+.navbaar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    height: 5rem;
+    align-items: center;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbaar-a{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-a {
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+
+#Home-a{
+    color: #DF0E62;
+}
+
+.nav-a:hover{
+    color: #DF0E62;
+}
+
+#div1 {
+    width: 50%;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+

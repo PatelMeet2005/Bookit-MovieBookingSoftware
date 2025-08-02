@@ -1,0 +1,74 @@
+.pathL {
+    height: 40px;
+    background-color: #F6F6F6;
+    display: flex;
+    align-items: center;
+    padding-left: 75px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.linkL{
+    text-decoration: none;
+    color: #DF0E62;
+}
+
+.greetL {
+    text-align: center;
+    margin-top: 64px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#line1L {
+    color: #127681;
+    font-size: 20px;
+    height: 24px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 10px;
+}
+
+#line2L {
+    font-size: 26px;
+    font-weight: bold;
+    height: 30px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;
+}
+
+.fromL {
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.buttonL input {
+    height: 46px;
+    width: 270px;
+    border-radius: 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 24px;
+    background-color: #F6F6F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    border: 0px;
+}
+
+#loginL {
+    margin-left: 135px;
+    height: 42px;
+    width: 135px;
+    background-color: #DF0E62;
+    text-align: center;
+    padding: 0px;
+    color: #ffffff;
+    border-radius: 4px;
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    border: 0px;
+}
