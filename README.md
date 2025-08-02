@@ -368,13 +368,14 @@ This project is licensed under the ISC License. See the `LICENSE` file for detai
 
 ## 👨‍💻 Developer
 
-**Armin Patel**
+**Armin Patel , Meet Patel**
 - GitHub: [@patelarmin19](https://github.com/patelarmin19)
+- GitHub: [@PatelMeet2005](https://github.com/PatelMeet2005)
 - Project: [Bookit-MovieBookingSoftware](https://github.com/PatelMeet2005/Bookit-MovieBookingSoftware)
 
 ## 📞 Support
 
-For support, email info@bookit.com or create an issue in the repository.
+For support, email meetpatel011005@gmail.com or create an issue in the repository.
 
 ---
 
